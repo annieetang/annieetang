@@ -8,18 +8,13 @@ Contact: annie.tang.25@dartmouth.edu
 
 Website: check back soon!
 
-Cool non-public projects include:
+Cool **non-public** projects include:
 
 * **Tiny Search Engine**
   * Akin to Google's Search Engine
   * Contains a Crawler, Indexer, and Querier for webpages
   * Language(s): C/Bash
   * Teammates: 0
-
-* **Color Sudoku: Play [here](https://colorsudoku.netlify.app/)!**
-  * An interactive spin on the traditional Sudoku puzzle, where the numbers are now colors and rules are the same.
-  * Language(s): C, Bash, JavaScript, HTML, CSS
-  * Teammates: 2
 
 * **Collaborative Graphical Editor**
   * Akin to Google Docs editing
