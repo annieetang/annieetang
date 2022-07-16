@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub :)
 
-My name is Annie, and I'm a student at Dartmouth College, class of 2025. Thanks for checking out my GitHub. This profile will contain some personal projects I've been working on. I've also worked on a ton of other projects throughout my coursework at Dartmouth, that are *not* public due to academic honor policies (see below for more info).
+My name is Annie, and I'm a student at Dartmouth College, class of 2025. Thanks for checking out my GitHub. This profile will contain some personal projects I've been working on. I've also worked on a ton of other projects that aren't included here yet. If you're interested to see their details, reach out and let me know!
 
 Languages: Python, Java, C, Bash, SQL, C++
 
@@ -8,7 +8,7 @@ Contact: annie.tang.25@dartmouth.edu
 
 Website: check back soon!
 
-Cool **non-public** projects include:
+Other cool projects include:
 
 * **Tiny Search Engine**
   * Akin to Google's Search Engine
