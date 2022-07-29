@@ -6,7 +6,7 @@ Languages: Python, Java, C, Bash, SQL, C++
 
 Contact: annie.tang.25@dartmouth.edu
 
-Website: check back soon!
+Website: https://annieetang.github.io/
 
 Other cool projects include:
 
