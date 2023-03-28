@@ -2,7 +2,7 @@
 
 My name is Annie, and I'm a student at Dartmouth College, class of 2025. Thanks for checking out my GitHub. This profile will contain some personal projects I've been working on. I've also worked on a ton of other projects that aren't included here yet. If you're interested to see their details, reach out and let me know!
 
-Languages: Python, Java, C, Bash, SQL, C++
+Languages: Python, C, Java, Bash, SQL
 
 Contact: annie.tang.25@dartmouth.edu
 
